@@ -3,6 +3,8 @@
 ## project "Edmonton_pet_license_distribution (2019 - 2020)"
 This project is a personal entertaiment to explore the pet preference it Edmonton residents.
 
+![Districts wiht more dog or cat owners in Edmonton](https://github.com/user-attachments/assets/96e8d5ca-2915-4dc5-8c66-4297789152a2)
+
 ## Description
 This project uses licenced pet data between 2019 and 2020, to explore which neighbourhood prefer cats over dogs. Numbers of cat and dog licences are summed up and compared by neighbour, and the results are mapped on a .shp file of Edmonton. Lastly, the exported map is decorated by memes in Adobe Photoshop. I may update the map in the furture with more updated data.
 
