@@ -1,6 +1,6 @@
 # R script
 
-## project "Edmonton_pet_license_distribution (2019 - 2020)"
+## project "Edmonton_pet_license_distribution (2019 - 2021)"
 This project is a personal entertaiment to explore the pet preference it Edmonton residents.
 
 ![Districts wiht more dog or cat owners in Edmonton](https://github.com/user-attachments/assets/96e8d5ca-2915-4dc5-8c66-4297789152a2)
