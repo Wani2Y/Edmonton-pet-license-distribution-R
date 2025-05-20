@@ -1,14 +1,14 @@
 # R script
 
 ## project "Edmonton_pet_license_distribution (2019 - 2021)"
-This project is a personal entertaiment to explore the pet preference it Edmonton residents.
+This project is a geospatial analysis to explore the pet preference it Edmonton residents. The goal is to determined pet preferencs of people living in Edmonton between cats and dogs.
 
 ![Districts wiht more dog or cat owners in Edmonton](https://github.com/user-attachments/assets/96e8d5ca-2915-4dc5-8c66-4297789152a2)
 
-## Description
-This project uses licenced pet data between 2019 and 2020, to explore which neighbourhood prefer cats over dogs. Numbers of cat and dog licences are summed up and compared by neighbour, and the results are mapped on a .shp file of Edmonton. Lastly, the exported map is decorated by memes in Adobe Photoshop. I may update the map in the furture with more updated data.
+## Source Data
+This project uses licenced pet data between 2019 and 2020, to explore which neighbourhood prefer cats over dogs. Numbers of cat and dog licences are summed up and compared by neighbourhoud, and the results are mapped on a map of Edmonton using a .shp file. Lastly, the exported map is decorated by memes in Adobe Photoshop such that it would be better received by the general public.
 
-Creator of the source data also produced a dashboard with more detailed information (https://public.tableau.com/app/profile/city.of.edmonton/viz/EdmontonPetLicenses/EdmontonPetLicenses). 
+Creator of the source data also produced a dashboard with more detailed information on dog breeds (https://public.tableau.com/app/profile/city.of.edmonton/viz/EdmontonPetLicenses/EdmontonPetLicenses). 
 
 ## License
 This repository is licensed under the MIT License.
